@@ -1,0 +1,13 @@
+{
+    "name": "teedmakerphp/assets",
+    "description": "Assets for teedmakerphp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tadeu Barbosa",
+            "email": "tadeufbarbosa@gmail.com"
+        }
+    ],
+    "require": {}
+}
